@@ -14,3 +14,4 @@ I have created this architecture in keras and the code for this is available in 
 
 I have encorporated this CNN into an Android app. I trained the CNN separately and then freezed the tensorflow model and imported it in Android for inference.
 
+![alt text](/Screenshot_2018-03-14-21-50-54-707_com.ninhydrin.doodly.png )
