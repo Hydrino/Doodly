@@ -2,7 +2,7 @@
 
 <h3>Can a neural network identify what you just doodled?</h3>
 
-Input is a 28x28 greyscale image of a doodle which is either an alarm clock or an apple.
+Draw any doodle from a hat, tree, an apple or an alarm clock.
 The neural network would identify which one of them did you draw.
 
 <h3>Architecture</h3>
